@@ -1,4 +1,4 @@
-# Desafio Coodesh
+Desafio Coodesh
 
 O projeto de estudo de modelo de dados que contém filmes da Netflix e Amazon é um projeto que visa criar um modelo de dados para armazenar informações sobre filmes disponíveis na Netflix e na Amazon. O modelo de dados permitirá que os usuários acessem informações detalhadas sobre cada filme, como título, elenco, diretor, gênero, ano de lançamento e classificação. O projeto também pode incluir informações sobre o tempo de execução do filme e a região em que está disponível. O objetivo do projeto é permitir que os usuários pesquisem, classifiquem e filtrem facilmente os filmes disponíveis em ambas as plataformas com base em suas preferências pessoais e outras informações relevantes.
 
